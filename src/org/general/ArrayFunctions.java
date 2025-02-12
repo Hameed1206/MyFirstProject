@@ -7,7 +7,7 @@ public class ArrayFunctions {
 
 	public static void main(String[] args) {
 		
-		int[] irr = {2, 4, 1, 3, 5, 7, 6};
+		int[] irr = {0, 0, 0, 3, 5, 7, 6};
 		
 		System.out.println("Before "+ Arrays.toString(irr));
 		
